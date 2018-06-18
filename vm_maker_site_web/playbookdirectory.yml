@@ -1,0 +1,9 @@
+---
+- name: Installation des serveurs web
+  hosts: eliitas
+  remote_user: root
+
+  tasks:
+          - name: Create directory
+            file: path=/home/elias/Bureau/conf.d1 state=directory
+...

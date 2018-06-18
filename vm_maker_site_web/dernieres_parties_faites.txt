@@ -1,0 +1,7 @@
+1)installer une machine à un nom fixe (fait)
+2)effacer une machine à un nom fixe (fait)
+3)Installer une machine avec un nom attribué (fait)
+4)effacer une machine avec un nom attribuée (fait)
+5)Installer 2 vm de manière automatique (fait)
+6)effacer 2 vm de maniere automatique quand l'utilisateur est supprimé(fait)
+7Attribuer une adresse ip aux vm apres leurs installation(pas fait)
